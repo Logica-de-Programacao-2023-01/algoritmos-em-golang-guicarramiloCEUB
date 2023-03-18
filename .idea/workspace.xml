@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4f31ee7-2279-419b-bf68-80833ff9f039" name="Changes" comment="" />
+    <list default="true" id="e4f31ee7-2279-419b-bf68-80833ff9f039" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,13 +42,13 @@
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "C:/Users/guicarramilo/repositorio/algoritmos-em-golang-guicarramiloCEUB",
+    "last_opened_file_path": "C:/Users/guica/logicaprog/algoritmos-em-golang-guicarramiloCEUB",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build exercicio10.go">
+  <component name="RunManager" selected="Go Build.go build exercicio4.go">
     <configuration name="go build exercicio10.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-guicarramiloCEUB" />
       <working_directory value="$PROJECT_DIR$" />
@@ -55,45 +57,45 @@
       <filePath value="$PROJECT_DIR$/exercicio10.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercicio6.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exercicio1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-guicarramiloCEUB" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/exercicio6.go" />
+      <filePath value="$PROJECT_DIR$/algoritmos seleção/exercicio1.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercicio7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exercicio2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-guicarramiloCEUB" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/exercicio7.go" />
+      <filePath value="$PROJECT_DIR$/algoritmos seleção/exercicio2.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercicio8.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exercicio3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-guicarramiloCEUB" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/exercicio8.go" />
+      <filePath value="$PROJECT_DIR$/algoritmos seleção/exercicio3.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercicio9.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exercicio4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-guicarramiloCEUB" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/exercicio9.go" />
+      <filePath value="$PROJECT_DIR$/algoritmos seleção/exercicio4.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build exercicio4.go" />
+        <item itemvalue="Go Build.go build exercicio3.go" />
+        <item itemvalue="Go Build.go build exercicio2.go" />
+        <item itemvalue="Go Build.go build exercicio1.go" />
         <item itemvalue="Go Build.go build exercicio10.go" />
-        <item itemvalue="Go Build.go build exercicio9.go" />
-        <item itemvalue="Go Build.go build exercicio8.go" />
-        <item itemvalue="Go Build.go build exercicio7.go" />
-        <item itemvalue="Go Build.go build exercicio6.go" />
       </list>
     </recent_temporary>
   </component>
